@@ -11,3 +11,11 @@
 .link{
     color: rgb(24, 118, 248);
 }
+.tabella{
+    background-color:  #B1E5F2;
+    border-collapse: collapse;  
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
