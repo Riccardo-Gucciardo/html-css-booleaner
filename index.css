@@ -6,16 +6,37 @@
 .title{
     height: 40%;
     width: 20%;
-    
 }
-.link{
-    color: rgb(24, 118, 248);
+.meriti{
+    color: rgba(18, 18, 18, 0.5);
+    margin-top: 0;
 }
+/* fine inizio esercizio */
+/* inizio corpo esercizio */
 .tabella{
     background-color:  #B1E5F2;
     border-collapse: collapse;  
 }
 table{
     border-collapse: collapse;
-    width: 100%;
+    width: 90%;
+    text-align: left;
+}
+/* parte finale eserciizo  */
+#immage{
+    background-image: url(./immagini/monitor.jpg);
+    width: 300px;
+    height: 200px;  
+}
+.modifiche{
+    color: rgba(18, 18, 18, 0.6); 
+    margin-bottom: inherit;
+}
+#immage2{
+    background-image: url(./immagini/graph.jpg);
+    width: 300px;
+    height: 200px;
+}
+h2{
+    color: rgb(254, 255, 255);
 }
