@@ -1,12 +1,12 @@
 /* pattern+varie  */
 #pattern{
     background-image: url(./immagini/pattern.png) ;
-   
+   background-color: #4EA0FF;
 }
 .title{
-    height: 150px;
-    width: 300px;
-    margin: 0% auto;
+    height: 40%;
+    width: 20%;
+    
 }
 .link{
     color: rgb(24, 118, 248);
