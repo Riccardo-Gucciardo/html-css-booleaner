@@ -40,3 +40,7 @@ table{
 h2{
     color: rgb(254, 255, 255);
 }
+.contain {
+    width: 80%;
+    margin: 0 auto;
+}
